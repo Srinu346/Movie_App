@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "Movie_App"]
+	url = https://github.com/Srinu346/Movie_App.git
+	fetch = +refs/heads/*:refs/remotes/Movie_App/*
