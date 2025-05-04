@@ -72,9 +72,6 @@ movie_app/
 └── package.json
 ```
 
-## 🚀 Live Demo
-Check out the live demo: [Movie_App Demo]([https://your-deployment-url.com](https://movie-app-sepia-three.vercel.app/))
-
 ## ⚡ Performance Optimizations
 - Implementation of React.memo for component memoization
 - Lazy loading of images with Intersection Observer
